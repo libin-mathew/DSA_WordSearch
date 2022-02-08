@@ -29,7 +29,7 @@ Follow the steps:
 - Run the command ***dotnet run***
 
 ### How to Run Unit Test
-Project TDSA_WordSearchTest constains the unit test class. Unit Project is using NUnit Test package.
+Project DSA_WordSearch_Test constains the unit test class. Unit Project is using NUnit Test package.
 Follow the steps:
 - Open the Test Explorer.
 - Run the Test Methods
