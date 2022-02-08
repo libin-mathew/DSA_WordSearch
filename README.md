@@ -1,4 +1,4 @@
-# DSA Word Search
+# DSA Word Search (Using Data Structure)
 ### Implement a data structure :
 - void insert(String word) Inserts the string word into the structure.
 - boolean search(String word) Returns true if the string word is in the structure and false otherwise.
