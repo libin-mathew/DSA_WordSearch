@@ -1,8 +1,9 @@
 # DSA Word Search (Using Data Structure)
 ### Implement a data structure :
-- Inserts the string word into the structure.
+- Inserts a string word into the structure.
 - Search for a word and Returns true if the string word is in the structure and false otherwise.
 - Search for a word starts witha prefix and  Returns true if there is a previously inserted string word that has the prefix prefix, and false otherwise.
+- Only a-z character is allowed in a word
 
 ### Prerequisites
 Install the following:
