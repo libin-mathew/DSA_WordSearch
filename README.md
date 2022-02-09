@@ -1,8 +1,8 @@
 # DSA Word Search (Using Data Structure)
 ### Implement a data structure :
-- void insert(String word) Inserts the string word into the structure.
-- boolean search(String word) Returns true if the string word is in the structure and false otherwise.
-- boolean startsWith(String prefix) Returns true if there is a previously inserted string word that has the prefix prefix, and false otherwise.
+- Inserts the string word into the structure.
+- Search for a word and Returns true if the string word is in the structure and false otherwise.
+- Search for a word starts witha prefix and  Returns true if there is a previously inserted string word that has the prefix prefix, and false otherwise.
 
 ### Prerequisites
 Install the following:
