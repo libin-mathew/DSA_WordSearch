@@ -7,7 +7,7 @@ using System.IO;
 
 namespace DSA_WordSearch_Test
 {
-    public class DatastructureTest
+    public class DataStructureTest
     {
         private UserInputOperations? _inputOperations;
         private DSAWordSearch? _WordSearch;

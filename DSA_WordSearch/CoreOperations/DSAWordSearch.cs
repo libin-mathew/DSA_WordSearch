@@ -47,7 +47,7 @@ namespace DSA_WordSearch.CoreOperations
             return node != null && node.isEndOfTheWord; // isEndOfTheWord will be true if we can find the full word coz it is representing the last char in word
         }
         /// <summary>
-        /// 
+        /// To traverse through the nodes
         /// </summary>
         /// <param name="word"></param>
         /// <returns></returns>
